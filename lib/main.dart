@@ -36,43 +36,43 @@ class _MyAppState extends State<MyApp> {
               child: Column(
                 children: [
                   Image.asset(
-                    lan ? 'assets/1.jpg' : 'photo1.png',
+                    lan ? 'assets/1.jpg' : 'assets/photo1.png',
                     fit: BoxFit.contain,
                     width: double.infinity,
                   ),
                   Divider(height: 4, color: Colors.white),
                   Image.asset(
-                    lan ? 'assets/2.jpg' : 'photo2.png',
+                    lan ? 'assets/2.jpg' : 'assets/photo2.png',
                     fit: BoxFit.contain,
                     width: double.infinity,
                   ),
                   Divider(height: 4, color: Colors.white),
                   Image.asset(
-                    lan ? 'assets/3.jpg' : 'photo3.png',
+                    lan ? 'assets/3.jpg' : 'assets/photo3.png',
                     fit: BoxFit.contain,
                     width: double.infinity,
                   ),
                   Divider(height: 4, color: Colors.white),
                   Image.asset(
-                    lan ? 'assets/4.jpg' : 'photo4.png',
+                    lan ? 'assets/4.jpg' : 'assets/photo4.png',
                     fit: BoxFit.contain,
                     width: double.infinity,
                   ),
                   Divider(height: 4, color: Colors.white),
                   Image.asset(
-                    lan ? 'assets/5.jpg' : 'photo5.png',
+                    lan ? 'assets/5.jpg' : 'assets/photo5.png',
                     fit: BoxFit.contain,
                     width: double.infinity,
                   ),
                   Divider(height: 4, color: Colors.white),
                   Image.asset(
-                    lan ? 'assets/6.jpg' : 'photo6.png',
+                    lan ? 'assets/6.jpg' : 'assets/photo6.png',
                     fit: BoxFit.contain,
                     width: double.infinity,
                   ),
                   Divider(height: 4, color: Colors.white),
                   Image.asset(
-                    lan ? 'assets/7.jpg' : 'photo7.png',
+                    lan ? 'assets/7.jpg' : 'assets/photo7.png',
                     fit: BoxFit.contain,
                     width: double.infinity,
                   ),
